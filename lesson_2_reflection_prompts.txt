@@ -7,7 +7,7 @@ The staging area is a place to put files that you are working on, before you are
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-Move file to make change
+You can compare your file in the staging area to the file in the repository before you commit.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
