@@ -20,5 +20,7 @@ Diagrams can show you where a branch starts from the master.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+THe result of merging two branches together is a new branch that combines all of the changes in both branches. We represent it in the diagrom so we can see what changes were made in the seperate branches before they were merged. 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
